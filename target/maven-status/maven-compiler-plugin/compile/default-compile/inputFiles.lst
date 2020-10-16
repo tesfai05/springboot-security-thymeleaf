@@ -1,0 +1,12 @@
+/Users/tesfaigebrekidan/Documents/ASD/new/registration-login-springboot-security-thymeleaf/src/main/java/net/javaguides/springboot/springsecurity/model/Role.java
+/Users/tesfaigebrekidan/Documents/ASD/new/registration-login-springboot-security-thymeleaf/src/main/java/net/javaguides/springboot/springsecurity/constraint/FieldMatchValidator.java
+/Users/tesfaigebrekidan/Documents/ASD/new/registration-login-springboot-security-thymeleaf/src/main/java/net/javaguides/springboot/springsecurity/config/SecurityConfiguration.java
+/Users/tesfaigebrekidan/Documents/ASD/new/registration-login-springboot-security-thymeleaf/src/main/java/net/javaguides/springboot/springsecurity/repository/UserRepository.java
+/Users/tesfaigebrekidan/Documents/ASD/new/registration-login-springboot-security-thymeleaf/src/main/java/net/javaguides/springboot/springsecurity/web/dto/UserRegistrationDto.java
+/Users/tesfaigebrekidan/Documents/ASD/new/registration-login-springboot-security-thymeleaf/src/main/java/net/javaguides/springboot/springsecurity/web/UserRegistrationController.java
+/Users/tesfaigebrekidan/Documents/ASD/new/registration-login-springboot-security-thymeleaf/src/main/java/net/javaguides/springboot/springsecurity/model/User.java
+/Users/tesfaigebrekidan/Documents/ASD/new/registration-login-springboot-security-thymeleaf/src/main/java/net/javaguides/springboot/springsecurity/service/UserService.java
+/Users/tesfaigebrekidan/Documents/ASD/new/registration-login-springboot-security-thymeleaf/src/main/java/net/javaguides/springboot/springsecurity/Application.java
+/Users/tesfaigebrekidan/Documents/ASD/new/registration-login-springboot-security-thymeleaf/src/main/java/net/javaguides/springboot/springsecurity/web/MainController.java
+/Users/tesfaigebrekidan/Documents/ASD/new/registration-login-springboot-security-thymeleaf/src/main/java/net/javaguides/springboot/springsecurity/constraint/FieldMatch.java
+/Users/tesfaigebrekidan/Documents/ASD/new/registration-login-springboot-security-thymeleaf/src/main/java/net/javaguides/springboot/springsecurity/service/UserServiceImpl.java
